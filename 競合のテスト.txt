@@ -1,1 +1,4 @@
-START TEST�@12
+START TEST@12
+
+
+git内で直接編集
