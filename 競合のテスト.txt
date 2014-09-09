@@ -1,4 +1,0 @@
-START TEST　12
-
-
-GIT内で編集2回目
